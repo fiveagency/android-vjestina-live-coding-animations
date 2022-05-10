@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Animations</string>
+    <string name="read_more_small">Read more...</string>
+    <string name="read_more">SizeTransform defines how the size should animate between the initial and the target contents. You have access to both the initial size and the target size when you are creating the animation. SizeTransform also controls whether the content should be clipped to the component size during animations.</string>
+</resources>
